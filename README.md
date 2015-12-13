@@ -1,2 +1,2 @@
-# W3-Total-Cache-zh_CN
-W3 Total Cache Translation简体中文和繁体中文
+#storefront-zh_CN
+storefron Translation简体中文和繁体中文
