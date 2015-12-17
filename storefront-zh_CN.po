@@ -1,0 +1,538 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Storefront\n"
+"POT-Creation-Date: 2015-11-17 22:22+0800\n"
+"PO-Revision-Date: 2015-11-28 20:18+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "哎呀！页面找不到了..."
+
+#: 404.php:22
+msgid ""
+"Nothing was found at this location. Try searching, or check out the links "
+"below."
+msgstr "没有你要的东西，搜索一下或查看下面的链接"
+
+#: 404.php:45 inc/structure/template-tags.php:26
+msgid "Product Categories"
+msgstr "商品类别"
+
+#: 404.php:54
+msgid "Popular Products"
+msgstr "热门商品"
+
+#: comments.php:26
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s评论&ldquo;%2$s&rdquo;"
+
+#: comments.php:33 comments.php:51
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:34 comments.php:52
+msgid "&larr; Older Comments"
+msgstr "较早评论"
+
+#: comments.php:35 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "最新评论"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "评论已关闭"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？ <a href=\"%1$s\">从这里开始</a>."
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "对不起，没有搜索到相匹配的结果。请尝试不同关键字。"
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "看起来没有你要找的东西。或许可以搜一下？"
+
+#: inc/admin/welcome-screen/sections/contribute.php:11
+msgid "Contribute to Storefront"
+msgstr "为 Storefront做出贡献"
+
+#: inc/admin/welcome-screen/sections/contribute.php:12
+#, php-format
+msgid ""
+"Found a bug? Want to contribute a patch or create a new feature? %sGitHub is "
+"the place to go!%s Or would you like to translate %s into your language? "
+"%sGet involved on WordPress.org%s."
+msgstr ""
+"发现了 bug?想要贡献补丁或创建新功能?%s可以到github！%s或许你想%s 翻译成本地语"
+"言?%s来 WordPress.org%s参与吧。"
+
+#: inc/admin/welcome-screen/sections/contribute.php:16
+msgid "Suggest a feature"
+msgstr "提议新功能"
+
+#: inc/admin/welcome-screen/sections/contribute.php:17
+#, php-format
+msgid ""
+"Please suggest and vote on ideas at the %s%s Ideasboard%s. The most popular "
+"ideas will see prioritised development."
+msgstr "请在%s%s Ideasboard%s提建议和表决支持想法。最受欢迎的想法会优先开发。"
+
+#: inc/admin/welcome-screen/sections/contribute.php:22
+#, php-format
+msgid "An %s project"
+msgstr "%s项目"
+
+#: inc/admin/welcome-screen/sections/enhance.php:12
+#, php-format
+msgid "Enhance %s"
+msgstr "增强%s"
+
+#: inc/admin/welcome-screen/sections/enhance.php:14
+#, php-format
+msgid ""
+"Take a look at our range of extensions that compliment and extend %s "
+"functionality."
+msgstr "查看实现和拓展了%s功能的扩展。"
+
+#: inc/admin/welcome-screen/sections/enhance.php:29
+#, php-format
+msgid "View all %s extensions &rarr;"
+msgstr "查看所有%s扩展&rarr;"
+
+#: inc/admin/welcome-screen/sections/enhance.php:35
+msgid "Install free plugins"
+msgstr "安装免费插件"
+
+#: inc/admin/welcome-screen/sections/enhance.php:37
+#, php-format
+msgid ""
+"There are a number of free plugins available for %s on the WordPress.org "
+"%splugin repository%s. Here are just a few:"
+msgstr ""
+"在theWordPress.org%s插件库%s， 有众多针对%s 免费插件可用，这里就有一些："
+
+#: inc/admin/welcome-screen/sections/enhance.php:49
+msgid "Child themes"
+msgstr "子主题"
+
+#: inc/admin/welcome-screen/sections/enhance.php:50
+#, php-format
+msgid ""
+"Take a look at our range of child themes for %s that allow you to easily "
+"change the look of your store to suit a specific industry."
+msgstr "看看%s的子主题，可轻松改变店铺外观以适应特定行业。"
+
+#: inc/admin/welcome-screen/sections/enhance.php:54
+#: inc/admin/welcome-screen/sections/enhance.php:61
+msgid "Proshop Child Theme"
+msgstr "Proshop子主题"
+
+#: inc/admin/welcome-screen/sections/enhance.php:68
+msgid "Galleria Child Theme"
+msgstr "Galleria子主题"
+
+#: inc/admin/welcome-screen/sections/enhance.php:75
+msgid "Boutique Child Theme"
+msgstr "Boutique子主题"
+
+#: inc/admin/welcome-screen/sections/enhance.php:76
+msgid "Free!"
+msgstr "免费"
+
+#: inc/admin/welcome-screen/sections/enhance.php:82
+#, php-format
+msgid "View all %s child themes &rarr;"
+msgstr "查看所有%s子主题 &rarr;"
+
+#: inc/admin/welcome-screen/sections/intro.php:14
+#, php-format
+msgid ""
+"%sEnjoying %s?%s Why not %sleave a review%s on WordPress.org? We'd really "
+"appreciate it!"
+msgstr "%s既然喜欢 %s?%s，为何不在 %sWordPress.org%s留下评论。我们非常感激。"
+
+#: inc/admin/welcome-screen/sections/intro.php:18
+#, php-format
+msgid "Built to enrich your %s store"
+msgstr "为了丰富%s店铺"
+
+#: inc/admin/welcome-screen/sections/intro.php:20
+#, php-format
+msgid ""
+"Although %s works fine as a regular WordPress theme, it really shines when "
+"used for an online store. Install %s and start selling now."
+msgstr ""
+"虽然%s作为WordPress的常规主题表现良好，但更适合用来做在线店铺。安装%s，开始销"
+"售吧。"
+
+#: inc/admin/welcome-screen/sections/intro.php:23
+#, php-format
+msgid "%s is activated"
+msgstr "已启用 %s"
+
+#: inc/admin/welcome-screen/sections/intro.php:25
+#, php-format
+msgid "Install %s"
+msgstr "安装 %s"
+
+#: inc/admin/welcome-screen/sections/intro.php:30
+#, php-format
+msgid "Latest %s news"
+msgstr "%s最新消息"
+
+#: inc/admin/welcome-screen/sections/intro.php:33
+msgid "Recent News"
+msgstr "最新新闻"
+
+#: inc/admin/welcome-screen/sections/intro.php:53
+msgid "Featured Docs"
+msgstr "功能文档"
+
+#: inc/admin/welcome-screen/sections/intro.php:55
+msgid "Installation &amp; configuration"
+msgstr "安装&amp;配置"
+
+#: inc/admin/welcome-screen/sections/intro.php:56
+msgid "FAQ"
+msgstr "常见问题"
+
+#: inc/admin/welcome-screen/sections/intro.php:57
+msgid "Customizer settings"
+msgstr "自定义设置"
+
+#: inc/admin/welcome-screen/welcome-screen.php:44
+#, php-format
+msgid ""
+"Thanks for choosing Storefront! You can read hints and tips on how get the "
+"most out of your new theme on the %swelcome screen%s."
+msgstr ""
+"感谢您选择Storefront！阅读关于如何充分利用 %s欢迎页面上%s的提示和技巧。"
+
+#: inc/admin/welcome-screen/welcome-screen.php:45
+msgid "Get started with Storefront"
+msgstr "开始使用Storefront"
+
+#: inc/customizer/controls.php:24
+msgid "Background"
+msgstr "背景"
+
+#: inc/customizer/controls.php:28 inc/functions/setup.php:114
+msgid "Header"
+msgstr "顶部"
+
+#: inc/customizer/controls.php:45
+msgid "Typography"
+msgstr "字体设置"
+
+#: inc/customizer/controls.php:59 inc/customizer/controls.php:211
+msgid "Heading color"
+msgstr "标题颜色"
+
+#: inc/customizer/controls.php:75 inc/customizer/controls.php:154
+#: inc/customizer/controls.php:227 inc/customizer/controls.php:283
+msgid "Text color"
+msgstr "副标题 | 文本颜色"
+
+#: inc/customizer/controls.php:90
+msgid "Link / accent color"
+msgstr "Link / accent color"
+
+#: inc/customizer/controls.php:103
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer/controls.php:110
+#, php-format
+msgid "Looking to add a logo? Install the %sJetpack%s plugin! %sRead more%s."
+msgstr "想添加logo？安装% sJetpack %s插件！%s更多信息%s。"
+
+#: inc/customizer/controls.php:124
+msgid "Header background image"
+msgstr "头部背景图片"
+
+#: inc/customizer/controls.php:138 inc/customizer/controls.php:195
+#: inc/customizer/controls.php:268
+msgid "Background color"
+msgstr "背景颜色"
+
+#: inc/customizer/controls.php:170 inc/customizer/controls.php:243
+msgid "Link color"
+msgstr "背景 | 顏色"
+
+#: inc/customizer/controls.php:180
+msgid "Footer"
+msgstr "页脚"
+
+#: inc/customizer/controls.php:182
+msgid "Customise the look & feel of your web site footer."
+msgstr "定制网站页脚的外观和感觉。"
+
+#: inc/customizer/controls.php:254
+msgid "Buttons"
+msgstr "按钮"
+
+#: inc/customizer/controls.php:256
+msgid "Customise the look & feel of your web site buttons."
+msgstr "定制网站按钮的外观和感觉。"
+
+#: inc/customizer/controls.php:298
+msgid "Alternate button background color"
+msgstr "点击按钮背景鼠悬浮标颜色"
+
+#: inc/customizer/controls.php:313
+msgid "Alternate button text color"
+msgstr "点击按钮的文字颜色"
+
+#: inc/customizer/controls.php:323
+msgid "Layout"
+msgstr "布局"
+
+#: inc/customizer/controls.php:335
+msgid "General Layout"
+msgstr "常规布局"
+
+#: inc/customizer/controls.php:348
+msgid "More"
+msgstr "更多"
+
+#: inc/customizer/controls.php:358
+msgid "Looking for more options?"
+msgstr "更多选择？"
+
+#: inc/customizer/controls/more.php:16
+#, php-format
+msgid ""
+"There's a range of %s extensions available to put additional power in your "
+"hands. Check out the %s%s%s page in your dashboard for more information."
+msgstr " %s范围的可用扩展给予你更多选择。查看仪表盘%s%s%s页面获取更多信息。"
+
+#: inc/customizer/controls/more.php:20
+#, php-format
+msgid "Enjoying %s?"
+msgstr "喜欢%s？"
+
+#: inc/customizer/controls/more.php:23
+#, php-format
+msgid ""
+"Why not leave us a review on %sWordPress.org%s?  We'd really appreciate it!"
+msgstr "为何不在 %sWordPress.org%s留下评论。我们非常感激。"
+
+#: inc/functions/setup.php:60
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: inc/functions/setup.php:61
+msgid "Secondary Menu"
+msgstr "二级菜单"
+
+#: inc/functions/setup.php:62
+msgid "Handheld Menu"
+msgstr "移动菜单"
+
+#: inc/functions/setup.php:104
+msgid "Sidebar"
+msgstr "侧边栏"
+
+#: inc/functions/setup.php:127
+#, php-format
+msgid "Footer %d"
+msgstr "页脚%d"
+
+#: inc/functions/setup.php:129
+#, php-format
+msgid "Widgetized Footer Region %d."
+msgstr "组件化的页脚区域%d。"
+
+#: inc/structure/comments.php:40
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: inc/structure/comments.php:43
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: inc/structure/comments.php:59
+msgid "Edit"
+msgstr "编辑"
+
+#: inc/structure/footer.php:60
+#, php-format
+msgid "%1$s designed by %2$s."
+msgstr "%1$s, %2$s"
+
+#: inc/structure/header.php:54
+msgid "Primary Navigation"
+msgstr "主导航"
+
+#: inc/structure/header.php:55
+msgid "Navigation"
+msgstr "导航"
+
+#: inc/structure/header.php:84
+msgid "Secondary Navigation"
+msgstr "次导航"
+
+#: inc/structure/header.php:106
+msgid "Skip to navigation"
+msgstr "跳到导航"
+
+#: inc/structure/header.php:107
+msgid "Skip to content"
+msgstr "跳到内容"
+
+#: inc/structure/page.php:36 inc/structure/post.php:51
+msgid "Pages:"
+msgstr "页"
+
+#: inc/structure/post.php:45
+#, php-format
+msgid "Continue reading %s"
+msgstr "继续阅读 %s"
+
+#: inc/structure/post.php:72 inc/structure/post.php:85
+msgid ", "
+msgstr ","
+
+#: inc/structure/post.php:77
+msgid "Categories: "
+msgstr "类别:"
+
+#: inc/structure/post.php:90
+msgid "Tags: "
+msgstr "标签:"
+
+#: inc/structure/post.php:99
+msgid "Leave a comment"
+msgstr "发表评论"
+
+#: inc/structure/post.php:99
+msgid "1 Comment"
+msgstr "一条评论"
+
+#: inc/structure/post.php:99
+msgid "% Comments"
+msgstr "总共 % 条评论"
+
+#: inc/structure/post.php:115
+msgctxt "Next post"
+msgid "Next"
+msgstr "下一步"
+
+#: inc/structure/post.php:116
+msgctxt "Previous post"
+msgid "Previous"
+msgstr "上一步"
+
+#: inc/structure/post.php:154
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "发布时间 %s"
+
+#: inc/structure/post.php:159
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "由%s"
+
+#: inc/structure/template-tags.php:65
+msgid "Recent Products"
+msgstr "最新商品"
+
+#: inc/structure/template-tags.php:103 inc/woocommerce/template-tags.php:144
+msgid "Featured Products"
+msgstr "特色商品"
+
+#: inc/structure/template-tags.php:142
+msgid "Top Rated Products"
+msgstr "好评的商品"
+
+#: inc/structure/template-tags.php:179
+msgid "On Sale"
+msgstr "销售价格"
+
+#: inc/woocommerce/template-tags.php:18
+msgid "View your shopping cart"
+msgstr "查看您的购物车"
+
+#: inc/woocommerce/template-tags.php:19
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d项"
+
+#: inc/woocommerce/template-tags.php:152
+msgid "On Sale Now"
+msgstr "正在促销"
+
+#: inc/woocommerce/template-tags.php:160
+msgid "New In Store"
+msgstr "店铺新品"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "搜索结果: %s"
+
+#. Theme Name of the plugin/theme
+msgid "Storefront"
+msgstr "Storefront"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.woothemes.com/storefront"
+msgstr "http://www.woothemes.com/storefront"
+
+#. Description of the plugin/theme
+msgid ""
+"Storefront is the perfect theme for your next WooCommerce project. Designed "
+"and developed by WooThemes, it features a deep integration with our market "
+"leading WooCommerce plugin, several layout & color options to personalise "
+"your shop, multiple widget regions, a responsive design and much more. "
+"Developers will love it's lean and extensible codebase making it a joy to "
+"customise and extend. Looking for a WooCommerce theme? Look no further!"
+msgstr ""
+"Storefront是您WooCommerce项目的完美主题，由WooThemes设计和开发，它具有深度整"
+"合市场领先的WooCommerce插件、多布局和配色选择使店铺充满个性、多组件区域、响应"
+"式设计等等特性，几个布局和颜色选择你的店铺个性化，多部件的区域，一个负责任的"
+"设计，更是一个深度整合。开发者定会喜欢它精益和可扩展的代码库，并充满乐趣进行"
+"定制和扩展。寻找WooCommerce主题？不要再观望！"
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr "WooThemes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.woothemes.com"
+msgstr "http://www.woothemes.com"
